@@ -1,0 +1,10 @@
+
+
+http://www.geekpedia.com/tutorial181_Capturing-screenshots-using-Csharp.html
+
+http://www.codeproject.com/KB/recipes/test_period.aspx
+
+http://msdn.microsoft.com/fr-fr/library/bb399572.aspx
+
+http://www.csharpfr.com/codes/CAPTURE-ECRAN-NET-SANS-API_35841.aspx
+
